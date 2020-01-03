@@ -5,7 +5,7 @@
         "fields": {
           "title": "queen panel bed",
           "price": 10.99,
-          "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://p0.piqsels.com/preview/417/263/808/view-of-bedroom-with-spherical-pendant-lamp.jpg" } } }
         }
       },
       {
@@ -13,7 +13,7 @@
         "fields": {
           "title": "king panel bed",
           "price": 12.99,
-          "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+          "image": { "fields": { "file": { "url": "http://www.mountpleasantgranary.net/blog/images/Crieff-bedroom.jpg" } } }
         }
       },
       {
@@ -21,7 +21,7 @@
         "fields": {
           "title": "single panel bed",
           "price": 12.99,
-          "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://i.pinimg.com/474x/4f/61/ac/4f61ac2392c01257214b63cd90d8d857--king-single-bed-single-beds.jpg" } } }
         }
       },
       {
@@ -29,7 +29,7 @@
         "fields": {
           "title": "twin panel bed",
           "price": 22.99,
-          "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://dw8stlw9qt0iz.cloudfront.net/yGZ-FrRMgCgSdiSqTpXRAxJwi6Q=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/081c0539-1b27-42ee-eeca-c8ee451faf2f.jpg" } } }
         }
       },
       {
@@ -37,7 +37,7 @@
         "fields": {
           "title": "fridge",
           "price": 88.99,
-          "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://live.staticflickr.com/1301/1250610695_7e460e4b95_z.jpg" } } }
         }
       },
       {
@@ -45,7 +45,7 @@
         "fields": {
           "title": "dresser",
           "price": 32.99,
-          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://cdn.pixabay.com/photo/2015/12/05/23/20/bedroom-1078887_960_720.jpg" } } }
         }
       },
       {
@@ -53,7 +53,7 @@
         "fields": {
           "title": "couch",
           "price": 45.99,
-          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://www.publicdomainpictures.net/pictures/280000/nahled/sofa-on-a-rug-in-a-living-room.jpg" } } }
         }
       },
       {
@@ -61,7 +61,7 @@
         "fields": {
           "title": "table",
           "price": 33.99,
-          "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+          "image": { "fields": { "file": { "url": "https://images.eq3.com/product-definitions/cjuwy9omf03tk0114wkqe8dls/image/b9ee0ab6-3fdd-4c53-8cd5-1798c4ca8f8b.jpg" } } }
         }
       }
     ]
