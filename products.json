@@ -20,7 +20,7 @@
         "sys": { "id": "3" },
         "fields": {
           "title": "single panel bed",
-          "price": 12.99,
+          "price": 10.99,
           "image": { "fields": { "file": { "url": "https://i.pinimg.com/474x/4f/61/ac/4f61ac2392c01257214b63cd90d8d857--king-single-bed-single-beds.jpg" } } }
         }
       },
