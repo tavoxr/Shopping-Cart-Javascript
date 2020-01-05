@@ -43,8 +43,8 @@ class Products{
                 console.log(contentful);
 
 
-            let result= await fetch('products.json')
-            let data= await result.json();
+            // let result= await fetch('products.json')
+            // let data= await result.json();
 
             let products= contentful.items;
 
